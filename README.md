@@ -1,4 +1,4 @@
-<h1 align=center>Fronted gangster</h1>
+<h1 align=center>Frontend gangster</h1>
 
 ![](https://komarev.com/ghpvc/?username=promptdrake)
 
