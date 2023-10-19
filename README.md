@@ -1,5 +1,6 @@
-<h1 align=center>Frontend gangster</h1>
-
+<h1 align=center>Bakwan Jagung</h1>
+need bakwan jagung? sini ke
+[trakteer](https://trakteer.id/aisbircubes)
 ![](https://komarev.com/ghpvc/?username=promptdrake)
 
 ![](https://github-readme-stats.vercel.app/api?username=promptdrake&show_icons=true&theme=dark) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=promptdrake&theme=dark)
