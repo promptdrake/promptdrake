@@ -1,43 +1,38 @@
+<h1 align="center">Hi there! 👋 I'm Mas Ipan</h1>
 
-###
+<p align="center">
+  Founder of <b>Aisbir Cloud Nusantara</b> — passionate about technology, cloud solutions, and making digital experiences better for everyone.
+</p>
 
-<h1 align="left">Hello im Aisbir👋</h1>
+---
 
-###
+## 📌 About Me
 
-<p align="left">Call me ipan or else what do you want<br>I'm learn code because I'm bored and it's very different from the lessons taught in my school</p>
+I'm based in **Indonesia**, leading **Aisbir Cloud Nusantara**, an SMM Panel company.  
+My tech journey has taken me through various fields, and I'm always eager to **learn**, **grow**, and **build things that matter**.
 
-###
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  
-</div>
+## 🛠️ Skills & Technologies
 
-###
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=promptdrake&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=promptdrake&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 📊 GitHub Stats
 
-<p align="left">Contact Us At</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=promptdrake&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=promptdrake&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="Top Languages" />
+</p>
 
-<div align="left">
-  <a href="https://t.me/aisbirkoenz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="https://www.instagram.com/pano.bears/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
+---
