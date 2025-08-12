@@ -22,7 +22,8 @@ My tech journey has taken me through various fields, and I'm always eager to **l
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
 </p>
-
+  &nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/go/go-original.svg" height="40" alt="JavaScript" />
 ---
 
 ## 📊 GitHub Stats
