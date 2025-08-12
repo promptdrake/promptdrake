@@ -17,7 +17,7 @@ My tech journey has taken me through various fields, and I'm always eager to **l
 
 <p align="center">
 
-  &nbsp;&nbsp;
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
