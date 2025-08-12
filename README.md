@@ -16,7 +16,7 @@ My tech journey has taken me through various fields, and I'm always eager to **l
 ## 🛠️ Skills & Technologies
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   &nbsp;&nbsp;
