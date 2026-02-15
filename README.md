@@ -1,14 +1,14 @@
 <h1 align="center">Hi there! 👋 I'm Mas Ipan</h1>
 
 <p align="center">
-  Founder of <b>Aisbir Cloud Nusantara</b> — passionate about technology, cloud solutions, and making digital experiences better for everyone.
+  Founder of <b>Aisbir Cloud Nusantara</b> — passionate about technology, and like to help starters by providing cheap hosting
 </p>
 
 ---
 
 ## 📌 About Me
 
-I'm based in **Indonesia**, leading **Aisbir Cloud Nusantara**, an SMM Panel company.  
+I'm based in **Indonesia**, leading **Aisbir Cloud Nusantara**, an Hosting Company
 My tech journey has taken me through various fields, and I'm always eager to **learn**, **grow**, and **build things that matter**.
 
 ### Any cooperation? contact us at
