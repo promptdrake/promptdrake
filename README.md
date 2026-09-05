@@ -1,95 +1,148 @@
-<p align="center">
-  <img 
-    src="https://github.com/promptdrake/promptdrake/blob/main/Picsart_26-05-13_01-02-11-432.jpg?raw=true"
-    alt="Banner"
-    width="100%"
-  />
-</p>
-
-<h1 align="center">👋 Hey, I'm Mas Ipan</h1>
-
-<h3 align="center">
-  Founder of <b>Aisbir Cloud Nusantara</b> ☁️
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Backend+Developer;Linux+Enthusiast;Cloud+Infrastructure+Builder;Affordable+Hosting+Provider+Indonesia" />
-</p>
-
-<p align="center">
-  Passionate about <b>technology</b>, <b>cloud infrastructure</b>, and <b>backend development</b>.<br>
-  Building affordable hosting solutions and helping starters grow in the tech world 🇮🇩
-</p>
-
----
 
 <div align="center">
 
-### 🌐 Connect With Me
+# 👋 Hey, I'm Mas Ipan
 
-<a href="mailto:support@aisbirnusantara.com">
-  <img src="https://img.shields.io/badge/Email-Support-blue?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+### Founder of **Aisbir Cloud Nusantara** ☁️
 
-<a href="https://github.com/promptdrake">
-  <img src="https://img.shields.io/badge/GitHub-promptdrake-black?style=for-the-badge&logo=github" />
-</a>
+[![Profile Views](https://komarev.com/ghpvc/?username=promptdrake&label=Profile%20Views&color=7c3aed&style=flat-square)](https://github.com/promptdrake)
+[![GitHub Followers](https://img.shields.io/github/followers/promptdrake?label=Followers&style=flat-square&color=2563eb)](https://github.com/promptdrake?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/promptdrake?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=flat-square&color=f59e0b)](https://github.com/promptdrake?tab=repositories)
 
-<a href="https://aisbirnusantara.com">
-  <img src="https://img.shields.io/badge/Website-Aisbir_Cloud_Nusantara-0A66C2?style=for-the-badge&logo=icloud&logoColor=white" />
-</a>
+<br>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=650&lines=Backend+Developer;Linux+Enthusiast;Cloud+Infrastructure+Builder;Go+%26+PHP+Developer;Building+Affordable+Hosting+in+Indonesia"
+  alt="Typing SVG"
+/>
+
+<br>
+
+**Backend Developer • Linux Enthusiast • Infrastructure Builder**
+
+Passionate about **backend engineering**, **Linux**, and **cloud infrastructure**.  
+Building useful and affordable technology from Indonesia 🇮🇩
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
 ```yaml
-Name      : Mas Ipan
-Location  : Indonesia 🇮🇩
-Role      : Founder @ Aisbir Cloud Nusantara
+name: Mas Ipan
+location: Indonesia 🇮🇩
+role: Founder @ Aisbir Cloud Nusantara
 
-Focus:
-  - Hosting Infrastructure
-  - Backend Development
+currently_building:
+  - Cloud Hosting Infrastructure
+  - Backend Systems
+  - SaaS Products
+  - Automation Tools
+
+interests:
   - Linux Administration
+  - Backend Engineering
+  - Networking
   - Cloud Infrastructure
+  - DevOps
 
-Languages:
+languages:
   - Go
   - PHP
   - TypeScript
   - JavaScript
 
-Mission:
-  Build useful things
-  Help beginners start their journey
-  Make hosting affordable for everyone
-```
+mission:
+  - Build useful technology
+  - Help beginners enter the tech world
+  - Make hosting affordable
+````
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
-<p align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=go,php,ts,js,nodejs,linux,docker,kubernetes,nginx,mysql,redis" />
+<img src="https://skillicons.dev/icons?i=go,php,ts,js,python" />
 
-</p>
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,laravel" />
+
+### Infrastructure & DevOps
+
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,cloudflare" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,sqlite,supabase" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash" />
 
 ---
 
-
-# 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=promptdrake&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## 🚀 What I'm Building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Infrastructure
+
+* Web Hosting
+* Application Hosting
+* Game Servers
+* Linux Servers
+* Reverse Proxies
+* Database Infrastructure
+* Containerized Applications
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧑‍💻 Development
+
+* Go
+* Laravel
+* Node.js
+* TypeScript
+* REST APIs
+* WebSocket
+* Redis
+* SQL Databases
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=promptdrake&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-</p>
+## ☁️ Aisbir Cloud Nusantara
+
+Building **Aisbir Cloud Nusantara**, an Indonesian cloud and hosting provider focused on affordable infrastructure for developers, students, and growing businesses.
+
+`Web Hosting` `Cloud Infrastructure` `Game Servers` `Application Hosting`
+
+[![Website](https://img.shields.io/badge/aisbirnusantara.com-Visit%20Website-0284C7?style=flat-square\&logo=googlechrome\&logoColor=white)](https://aisbirnusantara.com)
+
+---
+
+## 🌐 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-support%40aisbirnusantara.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:support@aisbirnusantara.com)
+[![GitHub](https://img.shields.io/badge/GitHub-promptdrake-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/promptdrake)
+
+---
